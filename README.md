@@ -29,7 +29,7 @@ How to build a server machine.
 - **Production (Local)** :
   - [Server Build Docs Production](http://localhost:6007)
 - **Production** :
-  - [Server Build Docs Production](TODO)
+  - [Server Build Docs Production](https://proginfra.gitlab.io/server_build)
 
 ## Getting Started
 

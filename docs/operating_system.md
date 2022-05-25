@@ -39,7 +39,7 @@ Once you have your server, you have several operating system you can setup on it
   - **Inconvenients** :
     - Not available on **ARM** machine.
     - Need a big server with **high specs** and a **lot of storage** disk.
-- [ProxMox](https://www.proxmox.com/en/) : This is one of the best system to setup and manage Virtual Machine, on these you can install a Debian, Ubuntu, OpenMediaVault, TrueNAS or Windows system (for self hosted cloud gaming), but only on very big server.
+- [Proxmox](https://www.proxmox.com/en/) : This is one of the best system to setup and manage Virtual Machine, on these you can install a Debian, Ubuntu, OpenMediaVault, TrueNAS or Windows system (for self hosted cloud gaming), but only on very big server.
   - **Advantages** :
     - You get a complete **web UI** to manage your server.
     - You have **material level** management.
