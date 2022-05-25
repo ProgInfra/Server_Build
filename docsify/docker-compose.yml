@@ -1,0 +1,13 @@
+---
+version: '3.6'
+
+services:
+  server_build_docs:
+    container_name: server_build_docs
+    image: server-build-docs:latest
+    build:
+      context: ..
+      dockerfile: ./docsify/Dockerfile
+    ports:
+    - 6007:80
+    restart: unless-stopped
