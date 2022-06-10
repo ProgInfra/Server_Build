@@ -2,8 +2,8 @@
 version: '3.6'
 
 services:
-  server_build_docs_dev:
-    container_name: server_build_docs_dev
+  server-build-docs-dev:
+    container_name: server-build-docs-dev
     image: server-build-docs:latest-dev
     build:
       context: ..
