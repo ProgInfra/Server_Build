@@ -38,10 +38,10 @@ You have **several step** to build a new **server machine** :
 1) First of all choose your [type of server](./docs/type.md).
 2) Next depend of your money and your type of server, choose an [architecture of piece](./docs/architecture.md) for your server, buy it and build it.
 3) Finally you can choose your server [Operating System](./docs/operating_system.md) and setup your server.
-   1) [Basic System (In Progress)](TODO)
-   2) [OpenMediaVault System (In Progress)](TODO)
-   3) [TrueNAS System (In Progress)](TODO)
-   4) [ProxMox System (In Progress)](TODO)
+   1) [Basic System](https://proginfra.gitlab.io/servinit/#/)
+   2) [OpenMediaVault System](https://proginfra.gitlab.io/openmediavault_system/#/)
+   3) [TrueNAS System](https://proginfra.gitlab.io/truenas_system/#/)
+   4) [Proxmox System](https://proginfra.gitlab.io/proxmox_system/#/)
 
 ## Documentations
 
