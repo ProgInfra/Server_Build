@@ -90,7 +90,7 @@ Best for **domotic** :
 Best for **very light server** :
 
 - Raspberry Pi Zero
-- TODO
+- Android Smartphone
 
 ### AMD
 
