@@ -117,6 +117,7 @@ Optionally you can add some advanced component :
 Best **economic** :
 
 - [Micro PC Lenovo ThinkCentre M910q](https://www.ebay.fr/itm/285049305285?hash=item425e4338c5:g:EdcAAOSw8LRjfi9z&amdata=enc)
+- Zimaboard
 - TODO Occasion Build
 - TODO Aliexpress Xeon Build
 
